@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 
 /**
  * A HelloWorld render some text: tap the button to increase the count.
@@ -7,7 +6,7 @@ import ReactDOM from 'react-dom';
 class HelloWorld extends React.Component {
         constructor() {
             super();
-            this.name = "some Name";
+            this.name = "Yannick Cuypers";
             this.id = "";
         }
 
